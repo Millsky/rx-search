@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b563ac2a-3c7b-4df6-8eb8-5afae7126088" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/blink-health-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/getDrugs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/getNDCs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/getSpellingSuggestions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/AssociatedNDCs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/DrugInformationCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SpellingSuggestions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/hooks/useGetDrugs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/hooks/useGetNDCs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/hooks/useGetSpellingSuggestions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contexts/SelectedDrug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/DrugDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/SearchDrugs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/blink-health-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/craco.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/API/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/API/getDrugs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/API/getNDCs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/API/getSpellingSuggestions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/AssociatedNDCs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/DrugInformationCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/SearchBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/SpellingSuggestions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/hooks/useGetDrugs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/hooks/useGetNDCs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Components/hooks/useGetSpellingSuggestions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Contexts/SelectedDrug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Routes/DrugDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/Routes/SearchDrugs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blink-health-project/tailwind.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="r0g9pozg" />
+  </component>
+  <component name="ProjectId" id="1yuIDc00zODgtZR4ZmAK80v1JR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b563ac2a-3c7b-4df6-8eb8-5afae7126088" name="Default Changelist" comment="" />
+      <created>1633094932559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633094932559</updated>
+      <workItem from="1633094933780" duration="16307000" />
+      <workItem from="1633293733339" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
